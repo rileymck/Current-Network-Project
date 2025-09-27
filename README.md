@@ -1,3 +1,5 @@
+# To find out more about this project please read the "Network Project Documentation.docx"
+
 # Current-Network-Project
 
 # Original Idea: 
