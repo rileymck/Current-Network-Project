@@ -22,4 +22,4 @@ By doing these few things I believe I can make a working firewall and direct the
 
 
 # Quick shout out:
-Thank you to Josh Gorden for helping me with some problems I ran into along the way. If you go and look at the "Network Project Documentation.docx" you can find his website and his LinkedIn profile
+Thank you to Josh Gorden for helping me with some problems I ran into along the way. If you go and look at the "Network Project Documentation.docx" you can find his website and his LinkedIn profile.
