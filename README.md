@@ -1,7 +1,5 @@
 # To find out more about this project please read the "Network Project Documentation.docx"
 
-# Current-Network-Project
-
 # Original Idea: 
 The original idea behind this project was to combine my knowledge of programming and security to make something public so employers can contact me. I wanted to make my own small network which would have consisted of a web server, firewall, a home lab, and an access point for all my smaller devices. This would have allowed me to make an internal network zone and a DMZ (Demilitarized Zone). However while doing this project I ran into problems, mostly with the firewall, which made me completely redesign how this project was going to work. 
 
