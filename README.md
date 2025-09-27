@@ -19,3 +19,7 @@ What am I currently running on my web server?
 - Do more research to see if my ISP has ports 443, 80, and 22 open
 
 By doing these few things I believe I can make a working firewall and direct the traffic myself instead of having someone else do it for me. If I'm able to get a firewall working then ill need to wire it all up and make another SSH key pair gen, but that's a given. 
+
+
+# Quick shout out:
+to Josh Gorden for helping me with some problems I ran into along the way. If you go and look at the "Network Project Documentation.docx" you can find his website and his LinkedIn profile
